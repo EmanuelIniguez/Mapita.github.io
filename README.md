@@ -1,5 +1,20 @@
 # Mapita.github.io
 Mapa interactivo , con el proposito de mostrar bares y locales Sin Tacc usando la API de Google Maps : 
+El live de la app : https://emanueliniguez.github.io/Mapita.github.io/ 
 
-![Screenshot_20230718_195240_Chrome](https://github.com/EmanuelIniguez/Mapita.github.io/assets/84642858/df82f3ce-19e6-4eed-843d-65a961d9f90b)
-![Screenshot_20230718_195334_Chrome](https://github.com/EmanuelIniguez/Mapita.github.io/assets/84642858/f7f02b58-594b-4d96-b869-c6fee31c144f)
+![Captura](https://github.com/EmanuelIniguez/Mapita.github.io/assets/84642858/bad273dd-55c2-42c2-bc86-6bd04634b8ea)
+![Captura1](https://github.com/EmanuelIniguez/Mapita.github.io/assets/84642858/44e50721-e78e-432c-8b64-bb7218328777) 
+
+Tecnologias usadas : 
+- API de Google Maps
+
+- JavaScript
+
+- React JS
+
+- Vite
+
+
+
+
+
