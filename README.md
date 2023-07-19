@@ -1,5 +1,5 @@
 # Mapita.github.io
-Mapa interactivo , con el proposito de mostrar bares y locales Sin Tacc mediante la API de Google Maps : 
+Mapa interactivo , con el proposito de mostrar bares y locales sin Tacc de la ciuadad Rosario mediante la API de Google Maps : 
 
 El live de la app : https://emanueliniguez.github.io/Mapita.github.io/ 
 
